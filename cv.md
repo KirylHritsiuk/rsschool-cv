@@ -17,13 +17,13 @@ const isDivideBy = ( number, a, b ) =>  number % a === 0 && number % b === 0 ? t
 * CSS
 * JS
 * Git
-##Eduction
+## Eduction
 **University:** Belarusian State University of Transport, **major:** engeneer-electrik
 **Courses:** 
--Stepik 
-  +[JS for beginer](https://stepik.org/cert/1393235)
-  +[HTML&CSS for beginer](https://stepik.org/cert/983969)
--HTMLAcademy
+- Stepik 
+  + [JS for beginer](https://stepik.org/cert/1393235)
+  + [HTML&CSS for beginer](https://stepik.org/cert/983969)
+- HTMLAcademy
   
 
 ## Language
