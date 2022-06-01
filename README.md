@@ -1,1 +1,0 @@
-https://KirylHritsiuk.github.io/rsschool-cv/rsschool-cv-html/
